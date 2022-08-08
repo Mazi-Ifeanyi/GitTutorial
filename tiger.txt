@@ -1,1 +1,2 @@
-i am a tiger
+i am a tiger.
+ I love tigers. This is the new line added
