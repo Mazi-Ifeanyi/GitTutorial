@@ -1,3 +1,8 @@
 i am a tiger.
+<<<<<<< HEAD
  I love tigers. This is the new line addedI want to try something .
 I love big cats
+=======
+ I love tigers. This is the new line added. I want to try something new
+ I added something through github
+>>>>>>> ae33c32c96d33fef94df479d18af0ef504d6f2e7
